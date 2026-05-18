@@ -40,7 +40,7 @@ A professional full-stack financial analytics dashboard built using Python, Stre
 # 📂 Project Structure
 
 ```bash
-Stock-Market-Data-Analyzer/
+StockPulse/
 │
 ├── api/
 │   └── app.py
